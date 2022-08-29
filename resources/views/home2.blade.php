@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 @extends('layouts.default')
 @section('content')
 <section class="text-cray-600">

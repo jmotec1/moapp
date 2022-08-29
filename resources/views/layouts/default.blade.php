@@ -10,11 +10,14 @@
     </head>
     <body>
         <header>
-            d3jkfhjkhffhf
-        </header>        
+            Aqui é o header
+        </header>
+        
         @yield('content')
+        
         <footer>
-            ghdhhduxgxghg
+            Aqui é o footer
         </footer>
     </body>
 </html>
+
